@@ -53,6 +53,3 @@ On a new branch called `gradient`, write code to color the tiles using some sort
 
 On a new branch called `flashing`, write code to change each tile's color to a new random color every 2 seconds. 
 
-### Bonus: Audio
-
-Get some audio playing to accompany your trippy visuals, using only JS.  No editing the HTML!
